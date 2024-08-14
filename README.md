@@ -112,7 +112,7 @@ chmod +x webui.sh
 ./webui.sh --listen --api
 ```
 
-# List of localhost url to access AI locally
+# List of AI localhost
 
 ## Ollama
 ```
