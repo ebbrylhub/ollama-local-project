@@ -1,4 +1,4 @@
-# Learning How to Install Ollama Locally
+# How to Install Ollama Locally
 
 # SETUP WSL (WINDOWS)
 ## Install WSL and Ubuntu
@@ -94,6 +94,12 @@ pyenv global 3.10
 ```
  
 # Install Stable Diffusion
+## Make directory
+```
+mkdir stablediff
+cd stablediff/
+```
+## Download Automatic1111
 ```
 wget -q https://raw.githubusercontent.com/AUTOMATIC1111/stable-diffusion-webui/master/webui.sh
 ```
