@@ -128,3 +128,8 @@ http://localhost:8080/
 ```
 http://localhost:7860/
 ```
+
+### Base URL
+```
+http://127.0.0.1:7860
+```
